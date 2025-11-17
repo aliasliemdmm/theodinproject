@@ -24,4 +24,5 @@ def stock_picker(arr)
   puts "[#{res[0][1]}, #{res[0][2]}]"
 end
 
+
 stock_picker([17,3,6,9,15,8,6,1,10])
